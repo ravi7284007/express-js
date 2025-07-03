@@ -12,9 +12,10 @@
     "express",
     "tea"
   ],
-  "author": "Ravi Kumar",
+  "author": "hitesh choudhary",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^16.4.7",
     "express": "^4.21.2"
   },
   "devDependencies": {
